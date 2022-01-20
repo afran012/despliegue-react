@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/TAREAS-GEEK/static/js/main.0327a9da.js",
-    "index.html": "/TAREAS-GEEK/index.html",
-    "main.0327a9da.js.map": "/TAREAS-GEEK/static/js/main.0327a9da.js.map"
+    "main.js": "/despliegue-react/static/js/main.df4c02dc.js",
+    "index.html": "/despliegue-react/index.html",
+    "main.df4c02dc.js.map": "/despliegue-react/static/js/main.df4c02dc.js.map"
   },
   "entrypoints": [
-    "static/js/main.0327a9da.js"
+    "static/js/main.df4c02dc.js"
   ]
 }
